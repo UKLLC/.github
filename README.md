@@ -10,5 +10,5 @@ UK Longitudinal Linkage Collaboration (UK LLC) is the national Trusted Research 
 
 
 
-<img src="https://github.com/UKLLC/contents/blob/main/funder%20logo.jpg" alt="Alt text" width="400"/>
+<img src="https://github.com/UKLLC/contents/blob/main/funder%20logo.jpg" alt="Alt text" width="500"/>
 
