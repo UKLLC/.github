@@ -8,4 +8,4 @@ UK Longitudinal Linkage Collaboration (UK LLC) is the national Trusted Research 
 - [Licensing](https://github.com/UKLLC/licencing) - Copyright and licensing information
 - [Place-based datasets](https://github.com/UKLLC/Place-based-datasets) - Code for pre-processing place-based datasets before injestion into the TRE.
 
-!
+[!](https://github.com/UKLLC/contents/blob/main/funder%20logo.jpg)
